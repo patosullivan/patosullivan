@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patosullivan)](https://github.com/anuraghazra/github-readme-stats)
+[![Patrick's GitHub stats](https://github-readme-stats-patrick-osullivans-projects.vercel.app/api?username=patosullivan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **patosullivan/patosullivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
